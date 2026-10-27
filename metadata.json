@@ -1,0 +1,6 @@
+{
+  "name": "Have Fun Music",
+  "description": "Have Fun Music - Stream YouTube and global music, organize custom playlists, download tracks for offline listening, and sync & share playlists seamlessly with a modern dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

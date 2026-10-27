@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Have Fun Music</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_search">البحث والاستكشاف</string>
+    <string name="nav_library">مكتبتي</string>
+    <string name="nav_offline">بدون إنترنت</string>
+    <string name="nav_cloud">المزامنة والمشاركة</string>
+
+    <string name="section_trending_youtube">أغاني يوتيوب الشائعة</string>
+    <string name="section_featured">أبرز الأغاني العالمية والعربية</string>
+    <string name="section_quick_play">تشغيل سريع</string>
+    <string name="section_my_playlists">قوائم التشغيل الخاصة بي</string>
+    <string name="section_downloaded_songs">الأغاني المحملة محلياً</string>
+
+    <string name="btn_play">تشغيل</string>
+    <string name="btn_pause">إيقاف مؤقت</string>
+    <string name="btn_next">التالي</string>
+    <string name="btn_previous">السابق</string>
+    <string name="btn_download">تحميل للاستماع بدون نت</string>
+    <string name="btn_downloaded">تم الحفظ بدون نت</string>
+    <string name="btn_add_to_playlist">إضافة إلى قائمة</string>
+    <string name="btn_create_playlist">إنشاء قائمة جديدة</string>
+    <string name="btn_share_playlist">مشاركة القائمة</string>
+    <string name="btn_import_playlist">استيراد قائمة عبر الرمز</string>
+    <string name="btn_sync_cloud">مزامنة سحابية الآن</string>
+
+    <string name="label_search_placeholder">ابحث عن أغنية، فنان، أو يوتيوب...</string>
+    <string name="label_playlist_name">اسم القائمة</string>
+    <string name="label_playlist_desc">وصف اختياري</string>
+    <string name="label_share_code">رمز المشاركة السحابي</string>
+    <string name="label_enter_share_code">أدخل رمز المشاركة (مثل: HFM-XXXX)</string>
+
+    <string name="status_offline_ready">جاهز للتشغيل في أي وقت دون اتصال</string>
+    <string name="status_cloud_synced">تمت المزامنة السحابية بنجاح</string>
+    <string name="tag_youtube">YouTube</string>
+    <string name="tag_offline">Offline</string>
+</resources>
